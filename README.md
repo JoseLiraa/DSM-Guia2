@@ -4,7 +4,7 @@
 - Carnet: ML161665
 - Grupo: 03L
 
-## Indice
+### Indice
 - [x] LifeCyle App - Muestra estado actual del ciclo de vida en el que la aplicación se encuentra.
 - [x] Componentes App - Uso de dos Activities, tomando datos en la primera y mostrando los datos en el segundo activity.
 - [x] Permisos App - Solicita permisos de usuarios para acceder a la agenda de contactos, para mostrae el nombre del contacto.
