@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DicusionResultado2</string>
+    <string name="Name">Empleado: %1$s</string>
+    <string name="Hours">Horas de trabajo: %1$s</string>
+    <string name="DiscountRent">Descuento de la renta: $ %1$s</string>
+    <string name="DiscountISS">Descuento de la ISS: $ %1$s</string>
+    <string name="DiscountAFP">Descuento de la AFP: $ %1$s</string>
+    <string name="TotalSalary">El total del salario es: $ %1$s</string>
+    <string name="NetSalary">El salario neto es: $ %1$s</string>
+</resources>
